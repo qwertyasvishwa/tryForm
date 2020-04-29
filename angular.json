@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "tryForms"
+    }
+  },
+  "defaultProject": "tryForms",
+  "cli": {
+    "analytics": "8f08cdd0-cba8-4733-acd6-55f7218fc4d2"
+  }
 }
